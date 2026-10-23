@@ -11,7 +11,6 @@ Current features (might not be up to date as time of reading) :
 
 - boxcolider
 - rigidbody
-- rigidbody 
 - gameobject
 - sprite
 - scripts
